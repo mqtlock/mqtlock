@@ -2,11 +2,6 @@
   <img src="https://avatars.githubusercontent.com/u/170342753?v=4&size=64" alt="hades" width="150" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=I+am+Hades;Student+in+Cybersecurity;Python,+Full+Stack,Developer" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
